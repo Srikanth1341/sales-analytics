@@ -64,6 +64,7 @@ dim_date table should now be created in Excel with columns for Date and Year.
 ![design-thought-process](design_thought_procress.png)
 
 ## Business knowledge
+![business-knowlege]()
 
 
 
